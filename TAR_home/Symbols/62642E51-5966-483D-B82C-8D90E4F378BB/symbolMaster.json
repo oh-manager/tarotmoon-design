@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E990C71A-EFD0-4920-9478-D02E37DB96F0",
+  "do_objectID": "62642E51-5966-483D-B82C-8D90E4F378BB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": -333,
-    "y": -265
+    "height": 96,
+    "width": 181,
+    "x": 100,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -40,6 +41,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -50,21 +52,18 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "A6515E60-2B97-41CE-948E-030F435120B0"
+      "id": "9E27BAE9-940F-4017-B6EA-430E0350430D"
     },
     {
-      "class": "symbolInstance",
-      "id": "69CBEDA5-74F5-4DD5-B7AD-65D509D5EC12"
+      "class": "text",
+      "id": "3CF6B326-9664-4F55-A936-E6EC218D413C"
     }
   ],
-  "name": "Artboard",
+  "name": "test_form",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone SE",
-    "offersLandscapeVariant": 1,
-    "width": 375
   },
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -105,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "92ADC3B2-58F0-4E42-991E-B588EF7647BB",
+    "do_objectID": "94EA005D-CA20-4FAE-AD54-9AAFF3FC9ABF",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -117,6 +116,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "D81EC888-0E40-4A12-BCA1-08DA7D7D4BF8",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

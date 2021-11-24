@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E990C71A-EFD0-4920-9478-D02E37DB96F0",
+  "do_objectID": "F08EDDEB-CE8B-4BF4-B031-6837A769EABC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,55 +15,40 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": -333,
-    "y": -265
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -418,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "A6515E60-2B97-41CE-948E-030F435120B0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "69CBEDA5-74F5-4DD5-B7AD-65D509D5EC12"
+      "class": "symbolMaster",
+      "id": "62642E51-5966-483D-B82C-8D90E4F378BB"
     }
   ],
-  "name": "Artboard",
+  "name": "Symbols",
   "nameIsFixed": false,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone SE",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -105,7 +83,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "92ADC3B2-58F0-4E42-991E-B588EF7647BB",
+    "do_objectID": "F4571547-9755-4A6C-BF0A-280C0F6318A3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -119,7 +97,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -503,
     "guides": [
     ]
   }

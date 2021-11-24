@@ -27,6 +27,76 @@
     "_class": "documentState"
   },
   "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "1282F976-3256-44E9-BD88-778A4929F07D",
+      "fontFamilyName": "Noto Sans CJK KR",
+      "fontFileName": "NotoSansCJKkr-Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansCJKkr-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5C959F26-3DBA-4371-A898-830F970C84DD",
+      "fontFamilyName": "Noto Sans CJK KR",
+      "fontFileName": "NotoSansCJKkr-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansCJKkr-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "64A5A4C0-D443-4557-B461-C9D2EA6A7C2E",
+      "fontFamilyName": "Noto Sans CJK KR",
+      "fontFileName": "NotoSansCJKkr-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansCJKkr-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6E0CE414-B816-49F8-901C-702989DA29E7",
+      "fontFamilyName": "Noto Sans CJK KR",
+      "fontFileName": "NotoSansCJKkr-DemiLight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansCJKkr-DemiLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B0C78DB1-14CC-487B-BAB0-9ED4E5657C40",
+      "fontFamilyName": "Noto Sans CJK KR",
+      "fontFileName": "NotoSansCJKkr-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansCJKkr-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D26C1DEB-4426-48FE-8747-54ADD64B6851",
+      "fontFamilyName": "Noto Sans CJK KR",
+      "fontFileName": "NotoSansCJKkr-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NotoSansCJKkr-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D790BBDA-3BE7-4016-A4C8-41AFDB464525",
+      "fontFamilyName": "Noto Sans CJK KR",
+      "fontFileName": "NotoSansCJKkr-Medium.otf",
+      "options": 2,
+      "postscriptNames": [
+        "NotoSansCJKkr-Medium"
+      ]
+    }
   ],
   "foreignLayerStyles": [
   ],
@@ -48,7 +118,8 @@
     "version": 136
   },
   "pages": [
-    "Page 1"
+    "Page 1",
+    "Symbols"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
